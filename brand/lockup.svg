@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" width="420" height="100" role="img" aria-label="recant">
+
+  <rect width="100" height="100" rx="18" fill="#0C0D10"/>
+  <g fill="none" stroke="#E0645C" stroke-width="8" stroke-linecap="round">
+    <path d="M26 26 L26 44 L38 44"/>
+    <path d="M74 74 L74 56 L62 56"/>
+  </g>
+  <line x1="26" y1="62" x2="74" y2="38" stroke="#E8E6E1" stroke-width="4"
+        stroke-linecap="round" opacity="0.85"/>
+
+  <text x="124" y="64" font-family="Inter, Helvetica Neue, Arial, sans-serif"
+        font-size="42" font-weight="700" letter-spacing="-1.4" fill="#E8E6E1">recant</text>
+</svg>
